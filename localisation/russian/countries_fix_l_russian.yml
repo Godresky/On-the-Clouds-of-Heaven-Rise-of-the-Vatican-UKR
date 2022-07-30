@@ -1,0 +1,24 @@
+﻿l_russian:
+SWI_fascism: "Швайцарська імперська конфедерація"
+SWI_fascism_DEF: "Швайцарська імперська конфедерація"
+SWI_democratic: "Швайцарія"
+SWI_democratic_DEF: "Швайцарія"
+SWI_neutrality: "Швайцарія"
+SWI_neutrality_DEF: "Швайцарія"
+SWI_communism: "Сполучені кантони"
+SWI_communism_DEF: "Сполучені кантони"
+SWI_fascism_ADJ: "Швайцарськ"
+SWI_democratic_ADJ: "Швайцарськ"
+SWI_neutrality_ADJ: "Швайцарськ"
+SWI_communism_ADJ: "Швайцарськ"
+SWI: "Швайцарія"
+SWI_DEF: "Швайцарія"
+SWI_ADJ: "Швайцарськ"
+
+SWI_f_gen: "Швайцарської імперської конфедерації"
+SWI_c_gen: "Сполучених кантонів"
+SWI_gen: "Швайцарії" # DN.
+
+SWI_f_dat: "Швайцарській імперській конфедерації"
+SWI_c_dat: "Сполученим кантонам"
+SWI_dat: "Швайцарії" # DN.
