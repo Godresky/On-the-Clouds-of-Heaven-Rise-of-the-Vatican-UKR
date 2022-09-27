@@ -1,7 +1,7 @@
 characters={
 ##LEADERS##
 	VAT_PiusXI={
-		name="Pius XI"
+		name=VAT_PiusXI
 		portraits={
 			civilian={
 				large="GFX_Portrait_PiusXI_large"
@@ -70,7 +70,7 @@ characters={
 		}
 	}
 	VAT_Cardinals={
-		name="College of Cardinals"
+		name=VAT_Cardinals
 		portraits={
 			civilian={
 				large="GFX_Portrait_Cardinals_large"
@@ -118,7 +118,7 @@ characters={
 		}
 	}
 	VAT_Edenic_Christ={
-		name="The Son"
+		name=VAT_Edenic_Christ
 		portraits={
 			civilian={
 				large="GFX_Portrait_Edenic_large"
